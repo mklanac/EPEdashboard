@@ -1,0 +1,3 @@
+http://kimboricha.blogspot.com/2013/12/build-usb-to-fluke-189-irinfrared.html
+https://github.com/eddic/flukereader
+https://github.com/gigibu5/fluke_serial

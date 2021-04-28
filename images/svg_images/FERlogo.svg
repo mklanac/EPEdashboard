@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="154.17659mm"
+   height="64.639824mm"
+   viewBox="0 0 154.17659 64.639824"
+   version="1.1"
+   id="svg4736"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="FERlogo.svg">
+  <defs
+     id="defs4730" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="514.21447"
+     inkscape:cy="59.296856"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4733">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(30.219245,-99.88247)">
+    <g
+       transform="translate(-50.648807,-65.011905)"
+       id="layer1-0"
+       inkscape:label="Layer 1"
+       style="fill:#c3cbdd;fill-opacity:1">
+      <g
+         style="fill:#c3cbdd;fill-opacity:1"
+         id="g1523"
+         inkscape:label="ink_ext_XXXXXX"
+         transform="matrix(0.35277777,0,0,-0.35277777,-21.09979,271.06355)">
+        <g
+           style="fill:#c3cbdd;fill-opacity:1"
+           id="g1525"
+           transform="scale(0.1)">
+          <path
+             d="M 4942.83,3009.52 H 3141.44 v -393.48 h 1798.58 c 90.76,0 164.59,-70.07 164.59,-160.73 0,-90.66 -73.83,-165.05 -164.59,-165.05 h -421.33 l -0.3,-393.29 h 223.82 l 362.19,-719.76 h 443.17 l -385.63,762.51 c 197.87,85.92 336.59,283.02 336.59,511.91 0,306.69 -249.02,556.34 -555.7,557.86 v 0.03"
+             style="fill:#c3cbdd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1527"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 4125.17,1897.08 H 1797.11 v 393.08 h 2328.06 v -393.08"
+             style="fill:#c3cbdd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1529"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 4522.9,1177.21 H 2161.21 v 393.08 H 4522.9 v -393.08"
+             style="fill:#c3cbdd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1531"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 2747.44,3009.52 H 1177.29 v -262.16 h -0.08 V 1177.21 h 393.08 v 1439.23 h 1177.15 v 393.08"
+             style="fill:#c3cbdd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1533"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

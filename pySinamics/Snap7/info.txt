@@ -1,0 +1,2 @@
+kopiraj datoteku na C disk i dodaj je u path
+C:\Snap7

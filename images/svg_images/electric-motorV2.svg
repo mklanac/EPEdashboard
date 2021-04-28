@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180.62222mm"
+   height="127.00001mm"
+   viewBox="0 0 180.62222 127.00001"
+   version="1.1"
+   id="svg1121"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="electric-motor1.svg">
+  <defs
+     id="defs1115" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="324.19049"
+     inkscape:cy="142.85715"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.057933,-59.63095)">
+    <g
+       id="g1146"
+       transform="matrix(0.35277779,0,0,0.35277779,20.057933,59.63095)"
+       style="fill:#c3cbdd;fill-opacity:1">
+      <path
+         id="path1123"
+         d="m 165,270 h 242 c 24.89844,0 45,-20.10156 45,-45 V 45 C 452,20.097656 431.89844,0 407,0 H 165 c -24.89844,0 -45,20.097656 -45,45 v 180 c 0,24.89844 20.10156,45 45,45 z M 180,60 H 392 V 90 H 180 Z m 0,60 h 212 v 30 H 180 Z m 0,60 h 212 v 30 H 180 Z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#c3cbdd;fill-opacity:1" />
+      <path
+         id="path1125"
+         d="M 91.5,30 H 60 V 240 H 91.5 C 90.601562,235.19922 90,230.10156 90,225 V 45 c 0,-5.101562 0.601562,-10.199219 1.5,-15 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#c3cbdd;fill-opacity:1" />
+      <path
+         id="path1127"
+         d="m 480.5,30 c 0.89844,4.800781 1.5,9.898438 1.5,15 v 180 c 0,5.10156 -0.60156,10.19922 -1.5,15 H 512 V 30 Z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#c3cbdd;fill-opacity:1" />
+      <path
+         id="path1129"
+         d="M 407,300 H 165 c -10.19922,0 -19.80078,-2.10156 -28.80078,-5.69922 L 114.30078,360 h 87 l 30,-30 h 109.39844 l 30,30 h 87 L 435.80078,294.30078 C 426.80078,297.89844 417.19922,300 407,300 Z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#c3cbdd;fill-opacity:1" />
+      <path
+         id="path1131"
+         d="m 0,90 h 30 v 90 H 0 Z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#c3cbdd;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
