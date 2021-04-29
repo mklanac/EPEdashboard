@@ -6,7 +6,7 @@ TODO (add project description)
 
 ## Running the EPEdashboard
 
-[![Watch the VIDEO](https://img.youtube.com/vi/0JDm4hGQshk/maxresdefault.jpg)](hhttps://youtu.be/0JDm4hGQshk)
+[![Watch the VIDEO](https://img.youtube.com/vi/0JDm4hGQshk/maxresdefault.jpg)](https://youtu.be/0JDm4hGQshk)
 
 ## Setting up the Snap7 library
 If you follow these steps you will be able to control the speed of the motor using the EPEdashboard GUI and PROFINET.
