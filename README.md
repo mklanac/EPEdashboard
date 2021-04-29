@@ -1,8 +1,7 @@
 # EPEdashboard
 
 
-TODO (add project description)
-
+EPEdashboard is a modern user interface with login (username=user, password=root) created using [Qt Design Studio](https://www.qt.io/design). EPE dashboard contains a [class definition](https://github.com/ggjmI/python-sinamics) for control/monitoring of SINAMICS inverters via TCP/IP using application layer [S7 protocol](https://wiki.wireshark.org/S7comm). For this, it utilizes the [python-snap7 library](https://python-snap7.readthedocs.io).
 
 ## Running the EPEdashboard
 
